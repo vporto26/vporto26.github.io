@@ -25,8 +25,8 @@ Overall, this project allowed me to combine my passion for aerospace engineering
 ">
   <img src="../images/radius_cutter_for_plane_nose.JPG" alt="Using the lathe 1" style="width:100%; border-radius:8px;">
   <img src="../images/further_along_on_the_radius_cutter_for_plane_nose.jpg" alt="Using the lathe 2" style="width:100%; border-radius:8px;">
-  <img src="../images/milling_deeper_slot_for_wings.JPG" alt="Using the mill 1" style="width:100%; border-radius:8px;">
   <img src="../images/testing_the_first_slot_with_the_wing.JPG" alt="Testing slot fit for wing" style="width:100%; border-radius:8px;">
+  <img src="../images/milling_deeper_slot_for_wings.JPG" alt="Using the mill 1" style="width:100%; border-radius:8px;">
   <img src="../images/tube_bending.JPG" alt="Tube Bending" style="width:100%; border-radius:8px;">
   <img src="../images/tapping_tubes_setup_with_stepblocks_to_prevent_twisting.JPG" alt="Tapping Tubes for the Stand" style="width:100%; border-radius:8px;">
 </div>
