@@ -11,3 +11,6 @@ This project focused on a comprehensive one-dimensional flow-path analysis of a 
   src="../images/hypersonic_jet.png" 
   alt="Hypersonic Jet"
   style="float: right; width: 220px; margin: 40px 10px 20px 28px; border-radius: 8px;">
+
+[View full design report (PDF)](../images/Design_of_1D_Hypersonic_Flow_Path (2).pdf)
+
