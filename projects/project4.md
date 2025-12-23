@@ -5,6 +5,11 @@ title: Electron Cyclotron Resonance Thruster
 
 # Electron Cyclotron Resonance Thruster 
 
+<img 
+  src="../images/ECRthruster.png" 
+  alt="ECR Thruster CAD"
+  style="float: right; width: 220px; margin: 40px 10px 20px 28px; border-radius: 8px;">
+
 ## Description
 An electron cyclotron resonance (ECR) thruster is a type of electric propulsion device that generates plasma by heating electrons through resonant interaction with a microwave-frequency electromagnetic field in the presence of a static magnetic field. When the electron cyclotron frequency set by the magnetic field matches the microwave frequency, electrons efficiently absorb energy from the oscillating electric field of the microwave. These energized electrons collide with neutral propellant atoms, ionizing them and sustaining a plasma. Because plasma generation relies on resonance rather than electrode-based discharges, ECR thrusters avoid direct electrode erosion and can operate stably at low propellant flow rates.
 
