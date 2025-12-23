@@ -6,7 +6,7 @@ title: The Airplane Accessibility Entry Project with Boeing
 # The Airplane Accessibility Entry Project with Boeing
 
 <img 
-  src="../images/wheelchair.jpeg" 
+  src="../images/wheelchair.png" 
   alt="Boarding wheelchair prototype"
   style="float: right; width: 300px; margin: 0 0 20px 20px; border-radius: 8px;">
 
