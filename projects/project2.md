@@ -4,6 +4,10 @@ title: Volare - The NASA Boeing X-36 Tailless Fighter Aircraft
 ---
 
 # Volare - The NASA Boeing X-36 Tailless Fighter Aircraft
+<img 
+  src="../images/hero_shot.JPG" 
+  alt="Final Product"
+  style="float: right; width: 230px; margin: 40px 10px 24px 32px; border-radius: 8px;">
 
 
 ## Description
