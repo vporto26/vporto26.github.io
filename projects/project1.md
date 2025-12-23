@@ -8,7 +8,7 @@ title: The Airplane Accessibility Entry Project with Boeing
 <img 
   src="../images/wheelchair.png" 
   alt="Boarding wheelchair prototype"
-  style="float: right; width: 300px; margin: 45px 10px 24px 32px; border-radius: 8px;">
+  style="float: right; width: 300px; margin: 45px 8px 24px 34px; border-radius: 8px;">
 
 ## Description
 This project aims to improve accessibility in commercial air travel by designing a foldable, dual-mode manual wheelchair that enables users to independently board and deboard aircraft, navigate narrow aisles, and transfer into standard airplane seating with minimal assistance. Current boarding procedures require multiple transfers and reliance on airport staff, reducing user independence and dignity while increasing the risk of injury and wheelchair damage.
