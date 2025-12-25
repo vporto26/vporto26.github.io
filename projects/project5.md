@@ -19,7 +19,7 @@ A significant portion of my contribution involved experimental structures work, 
 ">
   <img src="../images/fountainhopper1.JPG" alt="Prototype view 1" style="width:100%; border-radius:8px;">
   <img src="../images/fountainhopper2.png" alt="Prototype view 2" style="width:100%; border-radius:8px;">
-  <img src="../images/fountainhopper3.JPG" alt="Prototype view 3" style="width:100%; border-radius:8px;">
+  <img src="../images/main_prototype.png" alt="Prototype view 3" style="width:100%; border-radius:8px;">
   <img src="../images/group_fountainhopper.JPG" alt="Prototype view 4" style="width:100%; border-radius:8px;">
 </div>
 
