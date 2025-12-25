@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-# Hi, I’m Victoria Porto
-
-This is my personal website where I share my projects and writing.
-
 ## Projects
 - [The Airplane Accessibility Entry Project with Boeing](projects/project1.html)
 - [Volare - The NASA Boeing X-36 Tailless Fighter Aircraft](projects/project2.html)
