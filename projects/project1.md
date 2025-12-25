@@ -18,4 +18,5 @@ Supporting users up to 300 lb and complying with airline battery safety regulati
 
 <div style="clear: both;"></div>
 
+[View full report (PDF)](../images/ME170A - Chair Force One - Q1 Report.docx.pdf)
 
