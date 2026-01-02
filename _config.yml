@@ -2,5 +2,9 @@ title: Victoria Porto
 description: Aerospace & Mechanical Engineering | Stanford University
 logo: /images/profilepic.jpg
 theme: jekyll-theme-minimal
+
+resume: /images/Porto_CV.pdf
+
 github:
   is_project_page: false
+
