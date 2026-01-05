@@ -4,6 +4,3 @@ logo: /images/profilepic.jpg
 theme: jekyll-theme-minimal
 
 resume: /images/Porto_CV.pdf
-
-github:
-  is_project_page: false
