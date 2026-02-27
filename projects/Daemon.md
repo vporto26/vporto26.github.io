@@ -11,6 +11,7 @@ title: Daemon - Treehacks Hackathon Project 2026
   style="float: right; width: 230px; margin: 40px 10px 24px 32px; border-radius: 8px;">
 
 The Core Idea: 
+
 Daemon lets AI learn what its body parts are and how to use them.
 
 You attach a new arm.
