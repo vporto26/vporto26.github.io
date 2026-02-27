@@ -4,12 +4,18 @@ title: Daemon - Treehacks Hackathon Project 2026
 ---
 
 # Daemon - Treehacks Hackathon Project 2026
-## Description
-<img 
-  src="../images/wheelchair.png" 
-  alt="Boarding wheelchair prototype"
-  style="float: right; width: 230px; margin: 40px 10px 24px 32px; border-radius: 8px;">
 
+## Demo Video
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
+  <iframe 
+    src="https://www.youtube.com/embed/iPFMnFJEYhA"
+    frameborder="0"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+## Description
 The Core Idea: 
 
 Daemon lets AI learn what its body parts are and how to use them.
@@ -88,4 +94,4 @@ It updates control parameters between attempts and stops when success is stable 
 6. End result
 DAEMON turns heterogeneous firmware and hardware into one AI-operable system, enabling multi-device behavior without custom per-device orchestration logic.
 
-Github repository: https://github.com/Sachin-dot-py/Daemon
+[View the DAEMON Repository](https://github.com/Sachin-dot-py/Daemon)
