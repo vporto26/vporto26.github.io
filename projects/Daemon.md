@@ -55,6 +55,7 @@ It learned how to use its new arm.
 What makes this different: 
 
 Normally, hardware integration is rigid. Static. Painful.
+
 With Daemon:
 Adding a new part isn’t a rewrite.
 It’s a capability to be discovered.
