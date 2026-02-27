@@ -12,12 +12,15 @@ title: Daemon - Treehacks Hackathon Project 2026
 
 The Core Idea: 
 Daemon lets AI learn what its body parts are and how to use them.
+
 You attach a new arm.
+
 Instead of hardcoding support for it, the AI begins exploring:
 “Oh, this rotates.”
 “This joint moves up and down.”
 “This closes.”
 “If I close this around something, I can grab it.”
+
 It builds an internal model of what it can do.
 Not because we wrote special case logic.
 But because it tried, failed, adjusted, and learned.
