@@ -67,7 +67,7 @@ How we did it:
 1. Firmware to DAEMON interface (daemon-cli)
 Manufacturers annotate existing firmware APIs, and daemon-cli generates a standardized DAEMON manifest + runtime wrapper.
 
-2 Node discovery and capability exposure
+2. Node discovery and capability exposure
 Each hardware module (base, arm, camera, etc.) exposes its commands and telemetry as a DAEMON node over serial/TCP.
 
 3. Natural-language control from desktop-app
