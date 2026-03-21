@@ -4,13 +4,13 @@ title: Home
 ---
 
 ## Projects
-- [The Airplane Accessibility Entry Project with Boeing](projects/The_Airplane_Accessibility_Entry_Project_with_Boeing.html)
-- [Daemon - Treehacks Hackathon Project 2026](projects/Daemon.html)
+- [The Airplane Accessibility Entry Project with Boeing](projects/The_Airplane_Accessibility_Entry_Project_with_Boeing.md)
+- [Daemon - Treehacks Hackathon Project 2026](projects/Daemon.md)
 - [The Ohmies - Olympic Curling Robot](projects/The_Curling_Robot.md)
-- [Volare - The NASA Boeing X-36 Tailless Fighter Aircraft](projects/The_NASA_Boeing_X-36_Tailess_Fighter_Aircraft.html)
-- [Thermodynamics of a 1D Hypersonic Flow Path](projects/1D_Hypersonic_Flow_Path.html)
-- [Electron Cyclotron Resonance Thruster](projects/Electron_Cyclotron_Resonance_Thruster.html)
-- [Fountain Hopper - Thrust Vector Controlled Hybrid Rocket](projects/Fountain_Hopper.html)
+- [Volare - The NASA Boeing X-36 Tailless Fighter Aircraft](projects/The_NASA_Boeing_X-36_Tailless_Fighter_Aircraft.md)
+- [Thermodynamics of a 1D Hypersonic Flow Path](projects/1D_Hypersonic_Flow_Path.md)
+- [Electron Cyclotron Resonance Thruster](projects/Electron_Cyclotron_Resonance_Thruster.md)
+- [Fountain Hopper - Thrust Vector Controlled Hybrid Rocket](projects/Fountain_Hopper.md)
 
 ## About Me
 I’m a senior at Stanford University pursuing a coterminal M.S. in Aeronautics and Astronautics alongside a B.S. in Mechanical Engineering. I’m interested in designing complex engineering systems and in how mechanics, thermal systems, materials, and controls come together across different applications.
