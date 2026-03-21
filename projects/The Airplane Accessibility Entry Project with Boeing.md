@@ -4,13 +4,12 @@ title: The Airplane Accessibility Entry Project with Boeing
 ---
 
 # The Airplane Accessibility Entry Project with Boeing
-## Description
+## Abstract
 <img 
   src="../images/DR20.jpeg" 
   alt="Final Presentation"
   style="float: right; width: 230px; margin: 40px 10px 24px 32px; border-radius: 8px;">
 
-Abstract:
 In the United States, 12.2% of adults live with a mobility impairment that significantly affects their ability to walk. Nearly 70% of surveyed respondents report choosing not to fly due to accessibility concerns. Current boarding procedures often require users to undergo multiple transfers: from a personal wheelchair to an airport chair, to an aisle chair, and finally to an aircraft seat. This process reduces passenger independence while increasing risk and anxiety, particularly due to frequent personal wheelchair damage during airline handling.
 
 To address this challenge, we designed, built, and tested a travel wheelchair that converts from a standard manual configuration to an aisle configuration capable of fitting within the 18-inch aisle of a commercial aircraft. Many conventional wheelchairs exceed this width constraint due to their large rear wheels. Our design overcomes this limitation by using a linear-actuated wheel deployment system. When activated, two synchronized linear actuators deploy smaller wheels contained within the aisle-width envelope and transfer the wheelchair’s load away from the primary wheels. The large wheels can then be removed using quick-release axles, reducing the wheelchair’s width to 17.5 inches. The linear actuators contain Hall effect sensors and a closed-loop controller to provide a smooth and controlled vertical lift. When not in use, the wheelchair folds to fit within a 54 × 22 × 14 inch volume corresponding to an overhead bin, eliminating the need to check the wheelchair into aircraft cargo and thereby reducing the risk of damage. 
