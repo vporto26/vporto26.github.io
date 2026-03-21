@@ -6,6 +6,7 @@ title: Home
 ## Projects
 - [The Airplane Accessibility Entry Project with Boeing](projects/The_Airplane_Accessibility_Entry_Project_with_Boeing.html)
 - [Daemon - Treehacks Hackathon Project 2026](projects/Daemon.html)
+- [The Ohmies - Olympic Curling Robot](projects/The_Curling_Robot.md)
 - [Volare - The NASA Boeing X-36 Tailless Fighter Aircraft](projects/The_NASA_Boeing_X-36_Tailess_Fighter_Aircraft.html)
 - [Thermodynamics of a 1D Hypersonic Flow Path](projects/1D_Hypersonic_Flow_Path.html)
 - [Electron Cyclotron Resonance Thruster](projects/Electron_Cyclotron_Resonance_Thruster.html)
