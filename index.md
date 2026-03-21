@@ -7,7 +7,7 @@ title: Home
 - [The Airplane Accessibility Entry Project with Boeing](projects/project1.html)
 - [Daemon - Treehacks Hackathon Project 2026](projects/Daemon.html)
 - [Volare - The NASA Boeing X-36 Tailless Fighter Aircraft](projects/project2.html)
-- [Thermodynamics of a 1D Hypersonic Flow Path](projects/project3.html)
+- [Thermodynamics of a 1D Hypersonic Flow Path](projects/1D Hypersonic Flow Path.html)
 - [Electron Cyclotron Resonance Thruster](projects/project4.html)
 - [Fountain Hopper - Thrust Vector Controlled Hybrid Rocket](projects/project5.html)
 
