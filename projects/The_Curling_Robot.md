@@ -9,7 +9,7 @@
 
 <img 
   src="../images/me210_pic.jpeg" 
-  alt="T"
+  alt="Tinkering with the robot"
   style="float: right; width: 250px; margin: 40px 10px 24px 32px; border-radius: 8px;">
 
 Our team designed, built, and programmed an autonomous robot that orients itself, navigates to the optimal shooting position, and launches pucks toward the center scoring rings using a flywheel-based mechanism.
