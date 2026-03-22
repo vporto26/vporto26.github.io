@@ -13,8 +13,9 @@ title: Home
 - [Fountain Hopper - Thrust Vector Controlled Hybrid Rocket](projects/Fountain_Hopper.md)
 
 ## About Me
-I’m a senior at Stanford University pursuing a coterminal M.S. in Aeronautics and Astronautics alongside a B.S. in Mechanical Engineering. I’m interested in designing complex engineering systems and in how mechanics, thermal systems, materials, and controls come together across different applications.
+I'm a senior at Stanford University pursuing a coterminal M.S. in Aeronautics and Astronautics alongside a B.S. in Mechanical Engineering.
 
-My experience spans industry and research in Europe and the U.S., including work at MT Aerospace on ESA programs for in-orbit cryogenic fluid management and reusable launch technologies, as well as finite element analysis of advanced composites at Helicoid Industries. At Stanford, I’ve worked on plasma propulsion and advanced materials research, including a mycelium-based aerogel insulation project in collaboration with NASA.
+My experience spans industry and research in Europe and the U.S. At MT Aerospace, I worked on ESA programs for in-orbit cryogenic fluid management and reusable launch technologies, including power systems design and battery sizing for satellites that cycle between sunlit and eclipse phases. I've also done finite element analysis of advanced composites at Helicoid Industries, and at Stanford I've worked on plasma propulsion and advanced materials research, including a mycelium-based aerogel insulation project in collaboration with NASA.
 
-More recently, shaped by my own experience using medical devices, I’ve developed an interest in medical technology and accessible design. I’m currently working on a student project to develop an accessible aircraft boarding wheelchair to enable more independent air travel for passengers with disabilities.
+More recently, I've been expanding into robotics and electromechanical systems. At TreeHacks 2026, I worked on a project using reinforcement learning to help robots autonomously adapt to their own hardware. I also built a robot for a quasi-Olympic curling competition, and in my wheelchair accessibility capstone with Boeing, I led all the electrical work — specifying linear actuators, designing the circuit, and building the battery and controller mounts.
+Across all of it, I keep coming back to the same intersection: mechanical and electrical systems, and how actuation, power, and control come together in real hardware.
