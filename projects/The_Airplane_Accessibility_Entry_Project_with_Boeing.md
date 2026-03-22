@@ -8,7 +8,7 @@ title: The Airplane Accessibility Entry Project with Boeing
 <img 
   src="../images/DR20.jpeg" 
   alt="Final Presentation"
-  style="float: right; width: 400px; margin: 40px 10px 24px 32px; border-radius: 8px;">
+  style="float: right; width: 250px; margin: 40px 10px 24px 32px; border-radius: 8px;">
 
 In the United States, 12.2% of adults live with a mobility impairment that significantly affects their ability to walk. Nearly 70% of surveyed respondents report choosing not to fly due to accessibility concerns. Current boarding procedures often require users to undergo multiple transfers: from a personal wheelchair to an airport chair, to an aisle chair, and finally to an aircraft seat. This process reduces passenger independence while increasing risk and anxiety, particularly due to frequent personal wheelchair damage during airline handling.
 
