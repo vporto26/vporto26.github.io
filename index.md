@@ -8,7 +8,6 @@ title: Home
 - [Daemon - Treehacks Hackathon Project 2026](projects/Daemon.md)
 - [The Ohmies - Olympic Curling Robot](projects/The_Curling_Robot.md)
 - [Volare - The NASA Boeing X-36 Tailless Fighter Aircraft](projects/The_NASA_Boeing_X-36_Tailless_Fighter_Aircraft.md)
-- [Thermodynamics of a 1D Hypersonic Flow Path](projects/1D_Hypersonic_Flow_Path.md)
 - [Electron Cyclotron Resonance Thruster](projects/Electron_Cyclotron_Resonance_Thruster.md)
 - [Fountain Hopper - Thrust Vector Controlled Hybrid Rocket](projects/Fountain_Hopper.md)
 
