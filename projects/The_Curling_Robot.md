@@ -16,5 +16,5 @@ My Contributions:
 
 <div style="clear: both;"></div>
 
-For a full breakdown of the design process, testing, and lessons learned, visit the [project site](https://me210ohmies2026.weebly.com/discussion.html).
+For a full breakdown of the design process, testing, and lessons learned, visit the [project site](https://me210ohmies2026.weebly.com/).
 
