@@ -4,7 +4,7 @@ title: The Airplane Accessibility Entry Project with Boeing
 ---
 
 # The Airplane Accessibility Entry Project with Boeing
-## Abstract
+## Description
 <img 
   src="../images/DR20.jpeg" 
   alt="Final Presentation"
