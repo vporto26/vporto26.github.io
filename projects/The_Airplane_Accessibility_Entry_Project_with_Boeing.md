@@ -22,5 +22,6 @@ My Contributions:
   
 <div style="clear: both;"></div>
 
-[View full report (PDF)](../images/ME170A - Chair Force One - Q1 Report.docx.pdf)
+For the full report, please visit the [Stanford Archives](https://purl.stanford.edu/tb591rk8388).
+
 
