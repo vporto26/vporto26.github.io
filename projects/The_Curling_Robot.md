@@ -1,8 +1,4 @@
 
----
-layout: default
-title: The Curling Robot
----
 
 # The Curling Robot
 ## Description
