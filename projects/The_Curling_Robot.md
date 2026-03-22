@@ -8,7 +8,7 @@
   style="float: right; width: 250px; margin: 40px 10px 24px 32px; border-radius: 8px;">
 
 <img 
-  src="../images/me210_pic.jpeg" 
+  src="../images/me210_pic.jpg" 
   alt="Tinkering with the robot"
   style="float: right; width: 250px; margin: 40px 10px 24px 32px; border-radius: 8px;">
 
